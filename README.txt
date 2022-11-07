@@ -1,8 +1,3 @@
-This client is a basic starting client for people to switch to refactored clients. It is done 100% by Galkon.
-
-==================
-Folder Information
-==================
 There are five folders in the client. Cache, sign, Models, Raw, and Sprites.
 
 Cache: This is where the cache the client uses is located.
@@ -41,10 +36,3 @@ you guys everything. Plus, there are tutorials you can look at.
 The world map button does not work correctly because some users wish to have it that way.
 However, if you want it to work you may do the tutorial released by myself in the
 tutorials section.
-
-==================
-If you have any questions, please post on the thread. I will help as many people as I can.
-Also, please check regularly for new tutorials for my client, as I will release some.
-
-Thanks, and enjoy the client!
---Galkon
