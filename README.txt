@@ -1,5 +1,3 @@
-There are five folders in the client. Cache, sign, Models, Raw, and Sprites.
-
 Cache: This is where the cache the client uses is located.
 sign: Leave this be, it has the location of the cache declared.
 Models: This is where you put GZipped models to add to the cache.
