@@ -1,8 +1,8 @@
-Cache: This is where the cache the client uses is located.
-sign: Leave this be, it has the location of the cache declared.
-Models: This is where you put GZipped models to add to the cache.
-Raw: This is where you put RAW .dat models for the client to load.
-Sprites: This is where you put sprites to load.
+Cache: Cache the client uses is located.
+sign: Has the location of the cache declared.
+Models: Where you put GZipped models to add to the cache.
+Raw: RAW .dat models for the client to load.
+Sprites: Where you put sprites to load.
 
 ==================
 Client Information
